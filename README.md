@@ -1,9 +1,11 @@
-# Android Multitool
 
 A simple Python CLI to reboot an Android device between modes (system,
 recovery, bootloader/fastboot, fastbootd, Samsung download/Odin mode,
 Qualcomm EDL) and grab a screenshot of the current device interface —
 built on top of the official `adb` and `fastboot` binaries.
+
+<img width="300" height="100" alt="banner" src="https://github.com/user-attachments/assets/93e3fe23-d3a7-449e-91fb-44fae60b67bf" /># Android Multitool
+
 
 No Python knowledge required to run it: just double-click `run.bat`
 (Windows) or `run.sh` (macOS/Linux).
