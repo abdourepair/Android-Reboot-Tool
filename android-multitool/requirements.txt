@@ -1,0 +1,4 @@
+# No third-party dependencies are required yet - the tool only uses
+# Python's standard library (subprocess, os, sys, datetime).
+# This file is kept so run.bat / run.sh have something to install
+# as the project grows (e.g. colorama, rich, Pillow for image tweaks).
